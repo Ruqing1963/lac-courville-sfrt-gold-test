@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this pre-registration, please cite it."
+title: "A pre-registered field test of SFRT targeting for orogenic gold — Lac Courville Property, Abitibi, Québec (Part I)"
+authors:
+  - family-names: Xue
+    given-names: Aimin
+    affiliation: "Beijing Petrosound Geoservices Corp."
+    email: aiminx@126.com
+  - family-names: Chen
+    given-names: Ruqing
+    affiliation: "Minesound Ltd."
+    email: ruqing@hotmail.com
+date-released: 2026-06-13
+license: CC-BY-4.0
+keywords:
+  - SFRT
+  - orogenic gold
+  - Abitibi
+  - pre-registration
+  - mineral exploration geophysics
