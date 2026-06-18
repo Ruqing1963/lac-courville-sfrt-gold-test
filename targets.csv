@@ -1,0 +1,4 @@
+target,rank,das_from,das_to,depth_from_m,depth_to_m,centre_E,centre_N,centre_depth_m,zpzs_anomaly,interpretation
+T1,1,11500,12000,250,550,326054,5356352,400,0.065,Competent-body flank + fluid; dilation site (primary)
+T2,2,12380,12840,340,660,325538,5355632,500,0.045,F3-F4 corridor; corroborates Feb-2025 target
+T3,3,13240,13340,280,500,325135,5355067,390,0.045,F4 east-flank secondary fault
