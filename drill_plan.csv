@@ -1,0 +1,4 @@
+hole_id,target,collar_E,collar_N,collar_elev_m_approx,collar_DAS,azimuth_grid_deg,dip_deg,planned_length_m,target_interval_from_m,target_interval_to_m,note
+DDH-LC-01,T1,326217,5356515,320,11559,225,-60,600,289,600,Primary; brackets T1 250-520 m; centre hit at 462 m
+DDH-LC-02,T2,325703,5355797,320,12409,225,-65,600,375,600,Tests upper-central T2 (to 544 m); extension to ~730 m would test base
+DDH-LC-03,T3,325307,5355239,320,13067,225,-58,600,330,590,Fully brackets T3 280-500 m
